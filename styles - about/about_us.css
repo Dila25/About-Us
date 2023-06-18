@@ -1,0 +1,74 @@
+.heder {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.h {
+    margin-left: 20px;
+    margin-right: 25px;
+}
+
+.a_u {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+#image {
+    margin-left: 35%;
+    border-radius: 10px;
+}
+
+#active_au {
+    color: rgb(154, 154, 154);
+}
+
+#active_au_tnc {
+    color: rgb(154, 154, 154);
+}
+
+#active_us_pnc {
+    color: rgb(154, 154, 154);
+}
+
+.para {
+    text-align: justify;
+    margin: 80px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+.w_d {
+    text-align: justify;
+    margin-left: 80px;
+}
+
+.crnch {
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.crnch_b {
+    height: 25px;
+    width: 100px;
+    margin-left: 10%;
+    border-radius: 10px;
+    border-color: rgb(212, 212, 212);
+}
+
+.lnmo {
+    margin-left: 45%;
+    height: 35px;
+    width: 150px;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    border-color: rgb(212, 212, 212);
+} 
+
+label{
+    font-size: 25px;
+}
